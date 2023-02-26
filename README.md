@@ -4,6 +4,7 @@ An algorithm for transit disruption mitigation - strategy seletion phase (resour
  Note: some of the code is designed specificaly for example 1; changes are needed if you want to apply it to other networks!
 
 ## Usage
+(to be filled)
 
 ## Components
 The evaluation module takes time-dependent demand, disruption distribution, and mitigation plans as input, and outputs the user and operator cost in the horizon. Time is discretized into one minute intervals when accumulating the user costs. The user demands in each one-minute interval are assigned according to the capacity constraints at that time. Not enough capacity on the shortest
