@@ -1,4 +1,5 @@
 # transit-disruption-mitigation
+## Description
 An algorithm for transit disruption mitigation - strategy seletion phase (resource rellocation)
 
  Note: some of the code is designed specificaly for example 1; changes are needed if you want to apply it to other networks!
