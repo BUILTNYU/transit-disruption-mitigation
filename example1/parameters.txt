@@ -1,0 +1,14 @@
+Parameter summary
+ = 60 minutes# deterministic disruption duration
+ = 10 #demand density parameter
+ = 12.5  # demand density parameter
+BLT = 100 # bus line transfer cost ($)
+BBT = 300 # bus back-up transfer cost ($)
+MLT = 200 # metro line transfer cost ($)
+MST = 0 # metro short-turn cost ($)
+num_metro = 6  # the total number of metro vehicles
+num_bus = 36  # the total number of buses
+capacity_metro = 800# capacity of each train
+capacity_bus = 100# capacity of each bus
+VOT = 0.1# value of time($) per minute
+ = 1# weighting coefficient for operator cost
