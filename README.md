@@ -26,10 +26,5 @@ User cost computation:
 
  <img src="img/evaluation_formula.png" width = "200" alt="user_cost_comp" align=center />
 
-
-
-## Related studies
-> Qi Liu, Joseph Y. J. Chow*. 2023. A generalized network level disruption strategy selection model for urban public transport systems. TBD <br>
-
 ## Contributors
 Qi Liu(ql375@nyu.edu), Joseph Chow(joseph.chow@nyu.edu)
